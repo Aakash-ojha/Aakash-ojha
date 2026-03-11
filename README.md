@@ -53,6 +53,49 @@
 ---
 
 
+## 🚀 Featured Projects
+
+<p align="center">
+
+<!-- VETPET -->
+<a href="https://vet-pet-2av4.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-VETPET-orange?style=for-the-badge" />
+</a>
+<a href="https://github.com/Aakash-ojha/vetpet">
+  <img src="https://img.shields.io/badge/GitHub-VETPET-black?style=for-the-badge&logo=github" />
+</a>
+
+<br /><br />
+
+<!-- Movie-Hub -->
+<a href="https://movie-hub-eosin-one.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-Movie--Hub-orange?style=for-the-badge" />
+</a>
+<a href="https://github.com/Aakash-ojha/movie-hub">
+  <img src="https://img.shields.io/badge/GitHub-Movie--Hub-black?style=for-the-badge&logo=github" />
+</a>
+
+<br /><br />
+
+<!-- SKY-WATCH -->
+<a href="https://sky-watch-jet.vercel.app/">
+  <img src="https://img.shields.io/badge/Live-SKY--WATCH-orange?style=for-the-badge" />
+</a>
+<a href="https://github.com/Aakash-ojha/sky-watch">
+  <img src="https://img.shields.io/badge/GitHub-SKY--WATCH-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+### 🌟 Project Descriptions
+
+- **VETPET** – Book veterinary appointments, purchase pets and pet products, and make payments securely using eSewa.  
+- **Movie-Hub** – Discover movies, search your favorites, view detailed information, and save movies to your favorites list.  
+- **SKY-WATCH** – Check current and future weather while exploring locations on an interactive map.  
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
