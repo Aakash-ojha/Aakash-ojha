@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Ojha</h1>
+<h1 align="center"><a href="https://protfolioaakashojha.vercel.app/" target="_blank">Hi 👋, I'm Aakash Ojha</a></h1>
 <h3 align="center">🚀Passionate about building scalable, responsive, and user-friendly web applications</h3>
 
 <!-- Typing Animation -->
@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
-</p>
 
 ---
 
@@ -53,47 +49,19 @@
 ---
 
 
-## 🚀 Featured Projects
+## 🛠️ Featured Projects
 
+* ### **[VETPET](https://vet-pet-2av4.vercel.app/)**
+    * **Key Skills:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `Python`
+    * **Details:** A full-stack platform for booking veterinary appointments and purchasing pet products with secure payment integration.
 
+* ### **[Movie-Hub](https://movie-hub-eosin-one.vercel.app/)**
+    * **Key Skills:** `React` • `JavaScript` • `Tailwind CSS` • `REST APIs` • `Context API`
+    * **Details:** A dynamic movie discovery application featuring real-time search, detailed metadata, and personalized favorites.
 
-<!-- VETPET -->
-<a href="https://vet-pet-2av4.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-VETPET-orange?style=for-the-badge" />
-</a>
-<a href="https://github.com/Aakash-ojha/Vet-Pet">
-  <img src="https://img.shields.io/badge/GitHub-VETPET-black?style=for-the-badge&logo=github" />
-</a>
-
-<br /><br />
-
-<!-- Movie-Hub -->
-<a href="https://movie-hub-eosin-one.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-Movie--Hub-orange?style=for-the-badge" />
-</a>
-<a href="https://github.com/Aakash-ojha/MovieHub">
-  <img src="https://img.shields.io/badge/GitHub-Movie--Hub-black?style=for-the-badge&logo=github" />
-</a>
-
-<br /><br />
-
-<!-- SKY-WATCH -->
-<a href="https://sky-watch-jet.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-SKY--WATCH-orange?style=for-the-badge" />
-</a>
-<a href="https://github.com/Aakash-ojha/SkyWatch">
-  <img src="https://img.shields.io/badge/GitHub-SKY--WATCH-black?style=for-the-badge&logo=github" />
-</a>
-
-
-
----
-
-### 🌟 Project Descriptions
-
-- **VETPET** – Book veterinary appointments, purchase pets and pet products, and make payments securely using eSewa.  
-- **Movie-Hub** – Discover movies, search your favorites, view detailed information, and save movies to your favorites list.  
-- **SKY-WATCH** – Check current and future weather while exploring locations on an interactive map.  
+* ### **[SKY-WATCH](https://sky-watch-jet.vercel.app/)**
+    * **Key Skills:** `React` • `JavaScript` • `Leaflet.js` • `OpenWeather API` • `CSS3`
+    * **Details:** An interactive weather forecasting dashboard that integrates geographical maps with real-time weather data.
 
 ---
 
@@ -105,7 +73,6 @@
 </p>
 
 
-
 ---
 
 ## 📈 Contribution Graph
@@ -115,7 +82,6 @@
 </p>
 
 ---
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Open+to+collaborations+🚀" />
