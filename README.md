@@ -51,18 +51,11 @@
 
 ## 🛠️ Featured Projects
 
-* ### **[VETPET](https://vet-pet-2av4.vercel.app/)**
-    * **Key Skills:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS` • `Python`
-    * **Details:** A full-stack platform for booking veterinary appointments and purchasing pet products with secure payment integration.
+* ### **[Movie-Hub](https://movie-hub-eosin-one.vercel.app/)** — A dynamic movie discovery application featuring real-time search, detailed metadata, and personalized favorites. Built with:** `React` • `JavaScript` • `Tailwind CSS` • `TMDB Api` • `Context API` • `React-Router
 
-* ### **[Movie-Hub](https://movie-hub-eosin-one.vercel.app/)**
-    * **Key Skills:** `React` • `JavaScript` • `Tailwind CSS` • `REST APIs` • `Context API`
-    * **Details:** A dynamic movie discovery application featuring real-time search, detailed metadata, and personalized favorites.
+* ### **[SKY-WATCH](https://sky-watch-jet.vercel.app/)** — An interactive weather forecasting dashboard that integrates geographical maps with real-time weather data. Built with:** `React` • `TypeScript` • `Leaflet.js` • `OpenWeather API` •
 
-* ### **[SKY-WATCH](https://sky-watch-jet.vercel.app/)**
-    * **Key Skills:** `React` • `JavaScript` • `Leaflet.js` • `OpenWeather API` • `CSS3`
-    * **Details:** An interactive weather forecasting dashboard that integrates geographical maps with real-time weather data.
-
+ * ### **[VETPET](https://vet-pet-2av4.vercel.app/)** — A full-stack platform for booking veterinary appointments and purchasing pet products with secure payment integration. Built with:** `React`• `CSS` • `django`
 ---
 
 ## 📊 GitHub Stats
